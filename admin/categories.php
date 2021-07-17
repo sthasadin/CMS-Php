@@ -85,7 +85,5 @@
         </div>
         <!-- /#page-wrapper -->
 
-
-
 <!-- include footer -->
 <?php include "includes/admin_footer.php";   ?>
